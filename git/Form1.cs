@@ -9,7 +9,7 @@ namespace git
 
         private void button1_Click(object sender, EventArgs e)
         {
-           label1.Text = "OK";
+           label1.Text = "deagle a koydum yar";
         }
     }
 }
